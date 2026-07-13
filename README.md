@@ -31,6 +31,11 @@ Creators can earn Blue Buttercups for their artwork **only** if the asset has be
 * **No Real-World Value:** The Blue Buttercups currency has absolutely no banking or monetary value. It cannot be withdrawn, exchanged, or converted into real-world fiat money.
 * **Target Audience:** The project and its content are intended for users aged **10 and above (10+)**.
 * **Fully Open Source:** This project is completely open-source and welcomes community contributions.
+  
+### ❗ **PAY ATTENTION** ❗
+
+* The project is currently in the concept stage. We are active refining our ideas and fixing potential roadblocks discovered during planning.
+* Full development is scheduled to begin during our nearest upcoming free time!
 
 ---
 Ⓒ **Developed by QTwiSe Studio** Ⓒ
