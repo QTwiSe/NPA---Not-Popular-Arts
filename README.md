@@ -22,7 +22,7 @@ To create a permanent account, users only need to provide:
 Creators can earn Blue Buttercups for their artwork **only** if the asset has been reviewed and officially verified by the administration team to ensure its quality and authenticity!
 
 ## 🛠 Tech Stack
-- **Client App:** Godot Engine (.NET / C# version)
+- **Client App:** Avalonia UI
 - **Backend API:** .NET 9 / ASP.NET Core (hosted on Railway/Render)
 - **Database:** PostgreSQL (via Supabase or Neon.tech)
 - **Asset Storage:** Cloudflare R2 (for hosting pixel art files)
